@@ -21,4 +21,7 @@ As a **Product Manager**, I have been **researching** how **AI** helps you deliv
 
 ## ROADMAP
 
+
+<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/roadmapv1.JPG" alt="Robin Puerta">
+
 ## POC with "Friends&Family" and Linkedin community
