@@ -21,9 +21,9 @@ As a **Product Manager**, I have been **researching** how **AI** helps you deliv
 
 ## ROADMAP
 This is a visual representation of how to develop the product iteratively, how to include customer feedback in the early stages, and when to work with potential partnerships as high-quality leads.
-https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG" alt="Robin Puerta">
 
 ## POC with "Friends&Family" and Linkedin community
 I have released a free, limited-access version to get feedback ASAP. At this stage, the user interface was not developed to focus on the core feature of the Conception. 
 
+<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.JPG" alt="Robin Puerta">
