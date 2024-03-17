@@ -13,16 +13,16 @@ I'm highly interested in understanding real applications of emerging technologie
 
 ## KEY TAKEAWAYS
 >> Ad more information about Product management like measurement "Clearly defining success metrics from the very beginning is essential to keep yourself on track when prioritizing
-- As a personal project, I have had the amazing experience of working and developing first-hand using OpenAI's APIs. Their growth has been exponential, opening a possibility for more business cases to be discovered. 
-- Getting feedback in each stage is essential to validate your idea, and ensure you are working to a valuable, payable, and consumable solution.
+- As a personal project, I have had the amazing experience of working and developing first-hand using OpenAI's APIs. Their growth has been exponential, allowing more business cases to be discovered. 
+- Getting feedback in each stage is essential to validate your idea, and ensure you work in a valuable, payable, and consumable solution.
 - Defining a Roadmap is great for sharing your vision with others. With a clear direction, the decision-making process is faster and keeps everybody motivated and working toward the same goals.
-- A lesson learned is to also define Key Performance Metrics, that way, even when validating with end-users, we can collet valuable data to have more quantitative information on what is happening.
+- A lesson learned is to include Key Performance Metrics as part of the POC, to collect valuable data when test users use the prototype.
+
+## POC with "Friends&Family" and Linkedin community
+I have released a **free, limited-access version** to get feedback ASAP on the core features (idea analysis and shareable presentation). By skipping the user interface at this stage, the delivery time was reduced significantly. 
+<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.JPG" alt="Robin Puerta">
 
 ## ROADMAP
 This is a visual representation of how to develop the product iteratively, how to include customer feedback in the early stages, and when to work with potential partnerships as high-quality leads.
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG" alt="Robin Puerta">
 
-## POC with "Friends&Family" and Linkedin community
-I have released a free, limited-access version to get feedback ASAP. At this stage, the user interface was not developed to focus on the core feature of the Conception. 
-
-<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.JPG" alt="Robin Puerta">
