@@ -2,7 +2,7 @@
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Capture%20(1).JPG" alt="Robin Puerta"> 
 
 ## MY ROLE
-As a **Product Manager**, I have been **researching** how **AI** helps you deliver value to your Clients faster, cheaper, and better. This is a Proof Of Concept (POC) project that took one month to research, define, build, and test an App to help ...
+I'm highly interested in understanding real applications of emerging technologies. As a **Product Manager**, I conducted **market analysis** to find a potential niche where AI can solve a recurring problem efficiently, and quickly built a **Proof of Concept (POC)** to get feedback on the **value proposition**. Then, defined a **Roadmap** to scale this product based on the feedback and the **Product Strategy**.
 
 ### Free Demo Access here: [CoFounder.AI](https://robinpuerta.bubbleapps.io/version-test/main)   < < < < < < < < < < < < < < < < < < <
 
