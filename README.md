@@ -12,14 +12,6 @@ As a **Product Manager**, I have been **researching** how **AI** helps you deliv
 | <img src="https://github.com/robspuerta/betweenus/blob/main/Capture2%20(2).JPG" alt=" Robin Puerta">            | **The App for Entrepreneurs**<br/><br/>CoFounder.AI is a web app designed to help entrepreneurs to accelerate their time to market.Ideation and Conceptualization phase of building a business around an idea. The app caters to various audiences:<br/><br/>-**New couples:** No more awkward silences or boring questions. We provide an icebreaker section to help people relax and enjoy their time together.<br/><br/>- **Consolidated couples:** Engage in a Truth-or-Dare section with spicy challenges.<br/><br/>- **Dating and Relationships influencers:** Content creators can craft 7-day challenges for couples to exercise and improve communication, trust-building, problem-solving skills, and more.<br/><br/>Discover the joy of deepening connections with Between Us!  |
 
 
-
-## PRODUCT
-|                                              |                                                                                                  |  
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Capture%20(1).JPG" alt="Robin Puerta"> 
-            | **The App for Entrepreneurs**<br/><br/>CoFounder.AI is a web app designed to help entrepreneurs to accelerate their time to market.Ideation and Conceptualization phase of building a business around an idea. The app caters to various audiences:<br/><br/>-**New couples:** No more awkward silences or boring questions. We provide an icebreaker section to help people relax and enjoy their time together.<br/><br/>- **Consolidated couples:** Engage in a Truth-or-Dare section with spicy challenges.<br/><br/>- **Dating and Relationships influencers:** Content creators can craft 7-day challenges for couples to exercise and improve communication, trust-building, problem-solving skills, and more.<br/><br/>Discover the joy of deepening connections with Between Us!  |
-
-
 ## KEY TAKEAWAYS
 >> Ad more information about Product management like measurement "Clearly defining success metrics from the very beginning is essential to keep yourself on track when prioritizing
 - As a personal project, I have validated that by following the Agile framework, I can quickly define, prototype, and test an idea to get real-user feedback.
