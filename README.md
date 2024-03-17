@@ -2,7 +2,7 @@
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Capture%20(1).JPG" alt="Robin Puerta"> 
 
 ## MY ROLE
-I'm highly interested in understanding real applications of emerging technologies. As a **Product Manager**, I conducted **market analysis** to find a potential niche where AI can solve a recurring problem efficiently, and quickly built a **Proof of Concept (POC)** to get feedback on the **value proposition**. Then, defined a **Roadmap** to scale this product based on the feedback and the **Product Strategy**.
+I'm highly interested in understanding real applications of emerging technologies. As a **Product Manager**, I conducted **market analysis** to find a potential niche where AI can solve a recurring problem efficiently, and quickly built a **Proof of Concept (POC)** to get feedback on the **value proposition**. Then, based on the feedback and the **Product Strategy**, defined the **Product Roadmap**.
 
 ### Free Demo Access here: [CoFounder.AI](https://robinpuerta.bubbleapps.io/version-test/main)   < < < < < < < < < < < < < < < < < < <
 
