@@ -7,8 +7,6 @@ I'm highly interested in understanding real applications of emerging technologie
 ### Free Demo Access here: [CoFounder.AI](https://robinpuerta.bubbleapps.io/version-test/main)   < < < < < < < < < < < < < < < < < < <
 
 ## PRODUCT
-**The App for Entrepreneurs**
-
 Accelerate your time-to-market with **OnlyFounders.AI**, a web app designed to help entrepreneurs validate and refine business ideas quickly and cost-effectively. 
 
 **1. Key items:** Our AI model is trained with frameworks, methodologies, and business cases so that you can focus on execution. The Current version generates up to 14 key concepts, including product strategy, cost structure, cross-sell potential, clear value proposition, and more. This will be extended up to 31 items in the next iteration. 
