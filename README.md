@@ -36,3 +36,12 @@ I have released a **free, limited-access version** to get feedback ASAP on the c
 This is a visual representation of how to develop the product iteratively, how to include customer feedback in the early stages, and when to work with potential partnerships as high-quality leads.
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG" alt="Robin Puerta">
 
+
+<!-- 
+Feedback comments
+1. Hey Robin, I tried it, and it made at least a week and a half of work in less than one minute! I wonder how much it cost, if I might ask.
+2. Hello! Great way to try out AI capabilities in real business applications! Thanks for the free access! 
+3. Hey Robin! What I like the most is that it generates a full presentation with the result and is easy to update! Is selecting the slide template possible?
+4. Hey, great tool! The interface is weird; I had some issues with the permissions, but having the presentation at the end is super useful.
+
+-->
