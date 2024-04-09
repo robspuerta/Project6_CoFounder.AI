@@ -24,18 +24,17 @@ I have released a **free, limited-access version** to get feedback ASAP on the c
 
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" width="650"/> <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" width="340" alt="Robin Puerta">
 
-## KEY TAKEAWAYS
-- As a personal project, I have had amazing first-hand experience working and developing using OpenAI's APIs. Their growth has been exponential, allowing more business cases to be discovered. 
-- Getting feedback in each stage is essential to validate your idea, and ensure your work is a valuable, payable, and useful solution.
-- Defining a Roadmap is great for sharing your vision with others. With a clear direction, the decision-making process is faster and keeps everybody motivated and working toward the same goals.
-- A lesson learned is that clearly **defining success metrics** from the very beginning is essential to keeping yourself on track when prioritizing
-
-
 
 ## ROADMAP
 This is a visual representation of how to develop the product iteratively, how to include customer feedback in the early stages, and when to work with potential partnerships as high-quality leads.
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG" alt="Robin Puerta">
 
+
+## KEY TAKEAWAYS
+- As a personal project, I have had amazing first-hand experience working and developing using OpenAI's APIs. Their growth has been exponential, allowing more business cases to be discovered. 
+- Getting feedback in each stage is essential to validate your idea, and ensure your work is a valuable, payable, and useful solution.
+- Defining a Roadmap is great for sharing your vision with others. With a clear direction, the decision-making process is faster and keeps everybody motivated and working toward the same goals.
+- A lesson learned is that clearly **defining success metrics** from the very beginning is essential to keeping yourself on track when prioritizing
 
 <!-- 
 Feedback comments
