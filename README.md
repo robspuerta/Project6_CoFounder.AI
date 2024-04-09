@@ -26,7 +26,7 @@ I have released a **free, limited-access version** to get feedback ASAP on the c
 
 
 ## ROADMAP
-This is a visual representation of how to develop the product iteratively, how to include customer feedback in the early stages, and when to work with potential partnerships as high-quality leads.
+This is a visual representation listing high-level activities to achieve key milestones. It was built considering POC feedback from the previous step. The end goal will be partnering with 
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG" alt="Robin Puerta">
 
 
