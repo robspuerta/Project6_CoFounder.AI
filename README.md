@@ -11,7 +11,7 @@ Accelerate your time-to-market with **OnlyFounders.AI**, a web app designed to h
 
 1. **Key items:** Our AI model is trained with frameworks, methodologies, and business cases so that you can focus on execution. The Current version generates up to 14 key concepts, including product strategy, cost structure, cross-sell potential, clear value proposition, and more. This will be extended up to 31 items in the next iteration. 
 
-2. **Cost and Time Efficient:** With the latest advances, instead of weeks with several experts, we can get (almost) the same result for less than **5 USD in less than 2 minutes**. 
+2. **Cost and Time Efficient:** With the latest advances, instead of weeks with several experts, we can get (almost) the same result for less than **1 USD in less than 2 minutes**. 
 
 3. **Sharable Results:** OnlyFunders app generates a Google Slide presentation with the results so you can easily review it, adjust it, and quickly share without installing anything.
 
