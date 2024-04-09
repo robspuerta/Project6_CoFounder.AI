@@ -26,7 +26,7 @@ I have released a **free, limited-access version** to get feedback ASAP on the c
 
 
 ## ROADMAP
-This is a visual representation listing high-level activities to achieve key milestones. It was built considering POC feedback from the previous step. The end goal will be partnering with 
+This is a visual representation listing high-level activities to achieve key milestones. It was built considering POC feedback from the previous step. The end goal will be partnering with academic institutions and incubators to speed up the idea definition process and achieve a faster time-to-market.
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG" alt="Robin Puerta">
 
 
