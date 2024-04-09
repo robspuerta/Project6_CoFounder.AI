@@ -22,7 +22,7 @@ Accelerate your time-to-market with **OnlyFounders.AI**, a web app designed to h
 ## POC with "Friends&Family" and Linkedin community
 I have released a **free, limited-access version** to get feedback ASAP on the core features (idea analysis and shareable presentation). By skipping the user interface at this stage, the delivery time was reduced significantly. 
 
-<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" width="650"/> <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.JPG" width="340" alt="Robin Puerta">
+<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" width="650"/> <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" width="340" alt="Robin Puerta">
 
 ## KEY TAKEAWAYS
 - As a personal project, I have had amazing first-hand experience working and developing using OpenAI's APIs. Their growth has been exponential, allowing more business cases to be discovered. 
