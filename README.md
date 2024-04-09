@@ -40,10 +40,12 @@ This is a visual representation of how to develop the product iteratively, how t
 <!-- 
 Feedback comments
 1. Hey Robin, I tried it, and it made at least a week and a half of work in less than one minute! I wonder how much it cost, if I might ask.
-1A Hello! We OpenAI's recent update, the token price has dropped a lot. I just checked, and your request cost less than 0,10 USD. 
+1A Hello! With OpenAI's recent update, the token price has dropped a lot. I just checked, and your request cost less than 0,10 USD. 
 2. Hello! Great way to try out AI capabilities in real business applications! Thanks for the free access! 
 2.A You're welcome! I will keep using it for future side projects. 
 3. Hey Robin! What I like the most is that it generates a full presentation with the result and is easy to update! Is selecting the slide template possible?
+3.A Hi ! Allowing users to select a slide template is an easy feature to add and could be part of a premium feature. Good catch!
 4. Hey, great tool! The interface is weird; I had some issues with the permissions, but having the presentation at the end is super useful.
+4.A Hello ! I didn't want to focus on the interface for this POC; I was more into understanding the AI connection and value proposition. Then, I added the presentation at the end to be more user-friendly.
 
 -->
