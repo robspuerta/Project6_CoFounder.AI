@@ -29,6 +29,18 @@ I have released a **free, limited-access version** to get feedback ASAP on the c
     <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" style="flex: 1;" alt="Feedback">
 </div>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" style="width: 100%;" alt="OnlyFounder_demo">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" style="width: 100%;" alt="Feedback">
+    </td>
+  </tr>
+</table>
+
+
 ## ROADMAP
 This is a visual representation listing high-level activities to achieve key milestones. It was built considering POC feedback from the previous step. The end goal will be partnering with academic institutions and incubators to speed up the idea definition process and achieve a faster time-to-market.
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Roadmap.JPG" alt="Robin Puerta">
