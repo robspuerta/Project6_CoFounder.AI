@@ -22,34 +22,8 @@ Accelerate your time-to-market with **OnlyFounders.AI**, a web app designed to h
 ## POC with "Friends&Family" and Linkedin community
 I have released a **free, limited-access version** to get feedback ASAP on the core features (idea analysis and shareable presentation). By skipping the user interface at this stage, the delivery time was reduced significantly. 
 
-<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" width="600"/> <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" width="340" alt="Robin Puerta">
+<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" width="580"/> <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" width="350" alt="Robin Puerta">
 
-<div style="display: flex;">
-    <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" style="flex: 1;" alt="OnlyFounder_demo">
-    <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" style="flex: 1;" alt="Feedback">
-</div>
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%;">
-      <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" style="width: 100%;" alt="OnlyFounder_demo">
-    </td>
-    <td style="width: 50%;">
-      <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" style="width: 100%;" alt="Feedback">
-    </td>
-  </tr>
-</table>
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 30%;">
-      <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" style="width: 100%;" alt="OnlyFounder_demo">
-    </td>
-    <td style="width: 70%;">
-      <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" style="width: 100%;" alt="Feedback">
-    </td>
-  </tr>
-</table>
 
 ## ROADMAP
 This is a visual representation listing high-level activities to achieve key milestones. It was built considering POC feedback from the previous step. The end goal will be partnering with academic institutions and incubators to speed up the idea definition process and achieve a faster time-to-market.
