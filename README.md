@@ -1,8 +1,4 @@
 # OnlyFounder.AI
-<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/Capture%20(1).JPG" alt="Robin Puerta"> 
-<img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/cofounder_cover.JPG" alt="Robin Puerta"> 
-https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/cofounder_cover.jpg
-https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/cofounder_cover.png
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/cofounder_cover.png">
 
 ## MY ROLE
