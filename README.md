@@ -4,7 +4,7 @@
 ## MY ROLE
 I'm highly interested in understanding real applications of emerging technologies. As a **Product Manager**, I conducted **market analysis** to find a potential niche where AI can solve a recurring problem efficiently. I quickly built a **Proof of Concept (POC)** to get feedback on the **value proposition**. Then, based on the feedback and the **Product Strategy**, the **Product Roadmap** was defined.
 
-### Free Demo Access here: [CoFounder.AI](https://docs.google.com/spreadsheets/d/1MpQluMBjE7o6gtGmaVbZhOGw_2gZkOIq9t0GoUm-XvI/edit?usp=sharing)   < < < < < < < < < < < < < < < < < < <
+### Free Demo Access here: [OnlyFounder.AI](https://docs.google.com/spreadsheets/d/1MpQluMBjE7o6gtGmaVbZhOGw_2gZkOIq9t0GoUm-XvI/edit?usp=sharing)   < < < < < < < < < < < < < < < < < < <
 
 ## PRODUCT
 Accelerate your time-to-market with **OnlyFounders.AI**, a web app designed to help entrepreneurs validate and refine business ideas quickly and cost-effectively. 
