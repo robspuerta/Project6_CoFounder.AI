@@ -4,7 +4,7 @@
 ## MY ROLE
 I'm highly interested in understanding real applications of emerging technologies. As a **Product Manager**, I conducted **market analysis** to find a potential niche where AI can solve a recurring problem efficiently. I quickly built a **Proof of Concept (POC)** to get feedback on the **value proposition**. Then, based on the feedback and the **Product Strategy**, the **Product Roadmap** was defined.
 
-### Free Demo Access here: [CoFounder.AI](https://robinpuerta.bubbleapps.io/version-test/main)   < < < < < < < < < < < < < < < < < < <
+### Free Demo Access here: [CoFounder.AI](https://docs.google.com/spreadsheets/d/1MpQluMBjE7o6gtGmaVbZhOGw_2gZkOIq9t0GoUm-XvI/edit?usp=sharing)   < < < < < < < < < < < < < < < < < < <
 
 ## PRODUCT
 Accelerate your time-to-market with **OnlyFounders.AI**, a web app designed to help entrepreneurs validate and refine business ideas quickly and cost-effectively. 
@@ -20,7 +20,7 @@ Accelerate your time-to-market with **OnlyFounders.AI**, a web app designed to h
 
 
 ## POC with "Friends&Family" and Linkedin community
-I have released a **free, limited-access version** to get feedback ASAP on the core features (idea analysis and shareable presentation). By skipping the user interface at this stage, the delivery time was reduced significantly. 
+I have released a **free, limited-access version** to get feedback ASAP on the core features (idea analysis and shareable presentation). The delivery time was reduced significantly by skipping the user interface at this stage. 
 
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_demo.gif" width="580"/> 
 <img src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/feedback.gif" width="350" alt="Robin Puerta">
