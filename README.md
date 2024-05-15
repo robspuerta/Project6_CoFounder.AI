@@ -32,8 +32,8 @@ This is a visual representation listing high-level activities to achieve key mil
 
 
 ## KEY TAKEAWAYS
-- As a personal project, I have had amazing first-hand experience working and developing using OpenAI's APIs. Their growth has been exponential, allowing more business cases to be discovered. 
-Getting feedback at each stage is essential to validating your idea and ensuring your work is a valuable, viable, and useful solution.
-Defining a Roadmap is great for sharing your vision with others. With a clear direction, the decision-making process is faster, and everybody is motivated and working toward the same goals.
+- As a personal project, I have had amazing first-hand experience working and developing using OpenAI's APIs. Their growth has been exponential, allowing more business cases to be discovered.
+- Getting feedback at each stage is essential to validating your idea and ensuring your work is a valuable, viable, and useful solution.
+- Defining a Roadmap is great for sharing your vision with others. With a clear direction, the decision-making process is faster, and everybody is motivated and working toward the same goals.
 - A lesson learned is that clearly **defining success metrics** from the very beginning is essential to keeping yourself on track when prioritizing
 
